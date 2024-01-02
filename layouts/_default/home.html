@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ .Content }}
+{{ range site.RegularPages }}
+<ul>
+  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    <small><time>{{ .Date | time.Format ":date_medium" }}</time></small></li>
+  <!-- {{ .Summary }} -->
+</ul>
+  {{ end }}
+{{ end }}
