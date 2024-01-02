@@ -14,7 +14,7 @@ Also support linguatures.
 This is the official monospaced font of windows 11 developed by Microsoft.
 It's got a great italics style.
 
-   Iosevka
+- Iosevka
 This is a quite modern and stylish font.
 It has got a condensed style.
 
