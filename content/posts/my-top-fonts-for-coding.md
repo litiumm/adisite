@@ -24,8 +24,7 @@ This was the default font till window 11
 
 - ### Terminus
 Terminus is a bitmap font. It is great for terminals and ttys.
-
-
+   
 #### Special mentions
 - FiraCode
 - Hack
