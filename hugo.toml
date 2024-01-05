@@ -1,6 +1,7 @@
 baseURL = 'https://lithiumm.netlify.app/'
 languageCode = 'en-us'
 title = "Adisite"
+enableEmoji = true
 
 [[menus.main]]
 name = 'Home'

@@ -60,10 +60,15 @@ main {
 main {
     color: #282828;
     font-family: "Roboto";
+    line-height: 1.5;
 }
 
 main p {
-    line-height: 1.5;
+
+}
+
+main h3 {
+    padding-top: 10px;
 }
 
 main ul {
